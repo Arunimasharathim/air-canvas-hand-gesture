@@ -1,22 +1,22 @@
-# Air Canvas using Hand Gesture Recognition 🎨✋
+# Air Canvas using Hand Gesture Recognition 
 
 This project implements an **Air Canvas** using **Python, OpenCV, and MediaPipe**.
 Users can draw in the air using hand gestures captured via a webcam.
 
-## 🔥 Features
+##  Features
 - Hand gesture-based drawing
 - Color selection using fingers
 - Eraser support
 - Save drawing as image
 - Real-time hand tracking
 
-## 🛠 Technologies Used
+## Technologies Used
 - Python
 - OpenCV
 - MediaPipe
 - NumPy
 
-## 🖐 Controls
+##  Controls
 - **Index finger** → Draw
 - **Index + Middle finger** → Select color
 - **S** → Save canvas
